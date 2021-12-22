@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SSJetpackComposeSwipeToDelete">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.SSJetpackComposeSwipeToDelete.NoActionBar">
@@ -20,6 +20,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ui.SwipeToDeleteDirectionActivity"/>
     </application>
 
 </manifest>

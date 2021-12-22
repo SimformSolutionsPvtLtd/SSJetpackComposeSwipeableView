@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SSJetpackComposeSwipeToDelete"
 include ':app'
+include ':ssjetpackcomposeswipetodelete'

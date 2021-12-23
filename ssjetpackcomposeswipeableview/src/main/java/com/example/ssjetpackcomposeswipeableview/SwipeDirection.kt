@@ -1,4 +1,4 @@
-package com.example.ssjetpackcomposeswipetodelete.swipetodelete
+package com.example.ssjetpackcomposeswipeableview
 
 /**
  * Swipe Directions :-

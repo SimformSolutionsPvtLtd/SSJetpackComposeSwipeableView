@@ -1,4 +1,4 @@
-package com.example.ssjetpackcomposeswipetodelete.ui.theme
+package com.example.ssjetpackcomposeswipeableview.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

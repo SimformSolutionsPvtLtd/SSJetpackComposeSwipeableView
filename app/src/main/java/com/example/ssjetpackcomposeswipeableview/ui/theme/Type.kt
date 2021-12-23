@@ -1,4 +1,4 @@
-package com.example.ssjetpackcomposeswipetodelete.ui.theme
+package com.example.ssjetpackcomposeswipeableview.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

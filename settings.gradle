@@ -6,6 +6,6 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "SSJetpackComposeSwipeToDelete"
+rootProject.name = "SSJetpackComposeSwipeAbleView"
 include ':app'
-include ':ssjetpackcomposeswipetodelete'
+include ':ssjetpackcomposeswipeableview'

@@ -48,7 +48,7 @@ class MainActivity : ComponentActivity() {
         val context = LocalContext.current
         Scaffold(topBar = {
             TopAppBar(
-                title = { Text("SWIPE TO DELETE") },
+                title = { Text("SWIPEABLE VIEW") },
             )
         }) {
             Column(Modifier.fillMaxHeight().background(Background)) {

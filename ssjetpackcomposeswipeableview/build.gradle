@@ -1,6 +1,21 @@
 plugins {
     id 'com.android.library'
     id 'kotlin-android'
+    id 'maven-publish'
+}
+
+afterEvaluate {
+    publishing {
+        publications {
+            // Creates a Maven publication called "release".
+            release(MavenPublication) {
+                from components.release
+                groupId = 'com.simform.ssjetpackcomposeswipeableview'
+                artifactId = 'ssjetpackcomposeswipeableview'
+                version = '1.0.0'
+            }
+        }
+    }
 }
 
 android {

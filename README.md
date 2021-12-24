@@ -32,7 +32,7 @@
 
 	```groovy
 	dependencies {
-	       implementation 'com.github.SimformSolutionsPvtLtd:SSJetpackComposeSwipeableView:1.x.x'
+	       implementation 'com.github.SimformSolutionsPvtLtd:SSJetpackComposeSwipeableView:1.0.1'
 	}
 	```
 

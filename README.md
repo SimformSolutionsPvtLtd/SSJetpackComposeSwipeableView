@@ -17,7 +17,7 @@
 | <img src="/gif/swipeleft.gif" height="500px"/> | <img src="/gif/swiperight.gif" height="500px"/>| <img src="/gif/swipeboth.gif" height="500px"/>
 
 ## Installation
-1. Add it in your root build.gradle at the end of repositories:
+* Add it in your root build.gradle at the end of repositories:
 
 	```groovy
 	allprojects {
